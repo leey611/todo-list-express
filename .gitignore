@@ -1,0 +1,12 @@
+.DS_Store*
+Icon?
+._*
+
+Thumbs.db
+ehthumbs.dbDesktop.ini
+
+node_modules
+*.log
+*.gz
+
+.env
